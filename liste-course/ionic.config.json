@@ -1,0 +1,7 @@
+{
+  "name": "intro_ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
